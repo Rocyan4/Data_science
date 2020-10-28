@@ -1,4 +1,6 @@
 # Data_science
 
-## Sobre mim:
+## Repositório para artigos voltados a ciência de dados
+
+
 
